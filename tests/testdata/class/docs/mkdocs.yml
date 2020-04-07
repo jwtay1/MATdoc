@@ -1,0 +1,5 @@
+site_name: Test Site
+nav:
+    - 'index.md'
+    - 'index.md'
+    - 'test_class_dog.md'
